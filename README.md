@@ -1,2 +1,2 @@
 # C-projects
-collection of c projects
+this repo is a collection of all  c projects done
